@@ -10,4 +10,4 @@ Actio.Services.Identity -> Identity services
 
 docker run -d -p 27017:27017 mongo
 
-https://jwt.io/introduction/
+https://jwt.io/introduction/# core-microservices-template
